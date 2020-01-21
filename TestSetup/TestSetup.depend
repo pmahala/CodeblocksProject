@@ -1,10 +1,12 @@
 # depslib dependency file v1.0
-1514140574 source:c:\codeblocksprojects\testsetup\main.cpp
+1579586339 source:c:\codeblocksprojects\testsetup\main.cpp
 	<iostream>
+	"MatrixOperations.h"
 
-1578029591 source:c:\codeblocksprojects\testsetup\src\matrixoperations.cpp
+1579583328 c:\codeblocksprojects\testsetup\include\matrixoperations.h
+
+1579586629 source:c:\codeblocksprojects\testsetup\src\matrixoperations.cpp
 	"MatrixOperations.h"
 	<iostream>
-
-1578029686 c:\codeblocksprojects\testsetup\include\matrixoperations.h
+	<math.h>
 
